@@ -1,5 +1,4 @@
 package com.maven;
-
 /**
  * Hello world!
  *
